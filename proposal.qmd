@@ -9,7 +9,7 @@ editor: visual
 ---
 
 ::: left-align
-# ISSS608 Visual Analytics & Applications Project (Group 3) Project Proposal 
+# ISSS608 Visual Analytics & Applications Project (Group 3) Project Proposal
 
 # Project Title: A Fishy Business!
 :::
